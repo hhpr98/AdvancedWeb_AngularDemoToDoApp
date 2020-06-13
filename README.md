@@ -1,7 +1,18 @@
 # AdvancedMobile_AngularDemoToDoApp
 Demo ứng dụng Todo App bằng angular đơn giản
 
-# Test3
+#Nhóm 21
+1612209	Nguyễn Hữu Hòa				
+1612210	Phạm Ân Hòa				
+1612330	Nguyễn Văn Lân
+
+#Source:
+https://github.com/hhpr98/AdvancedWeb_AngularDemoToDoApp
+
+#Demo:
+https://youtu.be/Ubt2xmxtPwo
+
+# Demo todo app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
